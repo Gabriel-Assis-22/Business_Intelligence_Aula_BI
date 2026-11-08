@@ -28,8 +28,9 @@ F1_PALETTE = [
 ]
 
 COMMON_CONFIG = {
-    "displayModeBar": True,
+    "displayModeBar": "hover",
     "displaylogo": False,
+    "modeBarButtonsToRemove": ["zoomIn2d", "zoomOut2d", "autoScale2d", "lasso2d"],
     "toImageButtonOptions": {
         "format": "png",
         "filename": "f1_analytics_chart",
@@ -45,19 +46,21 @@ def _apply_f1_layout(fig: go.Figure, title: str = "") -> go.Figure:
     fig.update_layout(
         title={
             "text": f"<b>{title}</b>" if title else "",
-            "font": {"size": 15, "family": "Inter, sans-serif", "color": "#0F172A"},
+            "font": {"size": 14, "family": "Inter, sans-serif", "color": "#0F172A"},
             "x": 0.01,
-            "y": 0.95,
+            "y": 0.92,
+            "xanchor": "left",
+            "yanchor": "top",
         },
         template="plotly_white",
         clickmode="event+select",
-        margin=dict(l=20, r=20, t=50, b=20),
+        margin=dict(l=20, r=20, t=75, b=65),
         legend=dict(
             orientation="h",
-            yanchor="bottom",
-            y=1.02,
-            xanchor="right",
-            x=1,
+            yanchor="top",
+            y=-0.18,
+            xanchor="center",
+            x=0.5,
             title="",
             font=dict(size=11),
         ),
@@ -251,7 +254,6 @@ def plot_f1_us_audience_and_dts(df_f1: pd.DataFrame) -> go.Figure:
             side="right",
             showgrid=False,
         ),
-        legend=dict(orientation="h", y=1.08, x=1, xanchor="right"),
     )
     fig.update_xaxes(title="Temporada", tickmode="linear", dtick=2)
     return _apply_f1_layout(fig, "Efeito Drive to Survive & Expansão de Audiência nos EUA")

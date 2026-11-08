@@ -20,8 +20,9 @@ COLOR_PALETTE = [
 ]
 
 COMMON_CONFIG = {
-    "displayModeBar": True,
+    "displayModeBar": "hover",
     "displaylogo": False,
+    "modeBarButtonsToRemove": ["zoomIn2d", "zoomOut2d", "autoScale2d", "lasso2d"],
     "toImageButtonOptions": {
         "format": "png",
         "filename": "grafico_bi",
@@ -37,19 +38,21 @@ def _apply_modern_layout(fig: go.Figure, title: str = "") -> go.Figure:
     fig.update_layout(
         title={
             "text": f"<b>{title}</b>" if title else "",
-            "font": {"size": 16, "family": "Inter, sans-serif", "color": "#1E293B"},
-            "x": 0.02,
-            "y": 0.95,
+            "font": {"size": 14, "family": "Inter, sans-serif", "color": "#1E293B"},
+            "x": 0.01,
+            "y": 0.92,
+            "xanchor": "left",
+            "yanchor": "top",
         },
         template="plotly_white",
         clickmode="event+select",
-        margin=dict(l=20, r=20, t=50, b=20),
+        margin=dict(l=20, r=20, t=75, b=65),
         legend=dict(
             orientation="h",
-            yanchor="bottom",
-            y=1.02,
-            xanchor="right",
-            x=1,
+            yanchor="top",
+            y=-0.18,
+            xanchor="center",
+            x=0.5,
             title="",
             font=dict(size=11),
         ),
