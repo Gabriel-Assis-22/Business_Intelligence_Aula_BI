@@ -1,0 +1,338 @@
+race_id,season,round_number,race_date,grand_prix,circuit,country_iso3,region,pole_position,winner,podium_p2,podium_p3,fastest_lap_driver,safety_car_periods,is_sprint_weekend
+R001,2010,1,2010-03-21,Bahrain,Sakhir,BHR,Middle East,Robert Kubica,Lewis Hamilton,Mark Webber,Oscar Piastri,Oscar Piastri,0,0
+R002,2010,2,2010-03-15,Australia,Albert Park,AUS,Oceania,Sebastian Vettel,Fernando Alonso,Mark Webber,Valtteri Bottas,Daniel Ricciardo,1,0
+R003,2010,3,2010-04-10,Malaysia,Sepang,MYS,Asia,Sebastian Vettel,Jenson Button,Lando Norris,Oscar Piastri,Lando Norris,1,0
+R004,2010,4,2010-04-03,China,Shanghai,CHN,Asia,Sebastian Vettel,Fernando Alonso,Lewis Hamilton,Daniel Ricciardo,Fernando Alonso,0,0
+R005,2010,5,2010-05-19,Spain,Barcelona,ESP,Europe,Mark Webber,Mark Webber,Lewis Hamilton,Fernando Alonso,Lewis Hamilton,1,0
+R006,2010,6,2010-05-26,Monaco,Monte Carlo,MCO,Europe,Mark Webber,Mark Webber,Sebastian Vettel,George Russell,Fernando Alonso,1,0
+R007,2010,7,2010-06-03,Turkey,Istanbul Park,TUR,Europe,Sebastian Vettel,Fernando Alonso,Sebastian Vettel,Valtteri Bottas,Fernando Alonso,2,0
+R008,2010,8,2010-06-23,Canada,Montreal,CAN,North America,Sebastian Vettel,Jenson Button,Sebastian Vettel,Pierre Gasly,Sebastian Vettel,1,0
+R009,2010,9,2010-07-18,Europe (Valencia),Valencia,ESP,Europe,Sebastian Vettel,Sebastian Vettel,Jenson Button,Daniel Ricciardo,Sebastian Vettel,0,0
+R010,2010,10,2010-07-22,Britain,Silverstone,GBR,Europe,Sebastian Vettel,Sebastian Vettel,Fernando Alonso,Daniel Ricciardo,Daniel Ricciardo,1,0
+R011,2010,11,2010-08-08,Germany,Hockenheim,DEU,Europe,Mark Webber,Lewis Hamilton,Mark Webber,Sergio Perez,Sergio Perez,1,0
+R012,2010,12,2010-08-02,Hungary,Budapest,HUN,Europe,Sebastian Vettel,Fernando Alonso,Mark Webber,Fernando Alonso,Fernando Alonso,1,0
+R013,2010,13,2010-09-18,Belgium,Spa-Francorchamps,BEL,Europe,Fernando Alonso,Mark Webber,Lewis Hamilton,Daniel Ricciardo,Daniel Ricciardo,2,0
+R014,2010,14,2010-09-16,Italy,Monza,ITA,Europe,Mark Webber,Sebastian Vettel,Mark Webber,Sergio Perez,Sergio Perez,1,0
+R015,2010,15,2010-10-22,Singapore,Marina Bay,SGP,Asia,Fernando Alonso,Sebastian Vettel,Mark Webber,Sergio Perez,Sebastian Vettel,1,0
+R016,2010,16,2010-10-27,Japan,Suzuka,JPN,Asia,Sebastian Vettel,Lewis Hamilton,Mark Webber,Fernando Alonso,Fernando Alonso,2,0
+R017,2010,17,2010-11-01,Korea,Yeongam,KOR,Asia,Mark Webber,Sebastian Vettel,Fernando Alonso,Daniel Ricciardo,Sebastian Vettel,0,0
+R018,2010,18,2010-11-25,Brazil,Interlagos,BRA,South America,Sebastian Vettel,Mark Webber,Jenson Button,Oscar Piastri,Daniel Ricciardo,1,0
+R019,2010,19,2010-12-14,Abu Dhabi,Yas Marina,ARE,Middle East,Lewis Hamilton,Fernando Alonso,Mark Webber,Pierre Gasly,Daniel Ricciardo,1,0
+R020,2011,1,2011-03-20,Australia,Albert Park,AUS,Oceania,Sebastian Vettel,Lewis Hamilton,Sebastian Vettel,Charles Leclerc,Lewis Hamilton,0,0
+R021,2011,2,2011-03-03,Malaysia,Sepang,MYS,Asia,Sebastian Vettel,Jenson Button,Sebastian Vettel,Pierre Gasly,Daniel Ricciardo,1,0
+R022,2011,3,2011-04-06,China,Shanghai,CHN,Asia,Sebastian Vettel,Lewis Hamilton,Sebastian Vettel,Fernando Alonso,Fernando Alonso,1,0
+R023,2011,4,2011-04-05,Turkey,Istanbul Park,TUR,Europe,Sebastian Vettel,Sebastian Vettel,Jenson Button,Daniel Ricciardo,Daniel Ricciardo,2,0
+R024,2011,5,2011-05-20,Spain,Barcelona,ESP,Europe,Mark Webber,Jenson Button,Sebastian Vettel,Oscar Piastri,Jenson Button,1,0
+R025,2011,6,2011-05-16,Monaco,Monte Carlo,MCO,Europe,Sebastian Vettel,Fernando Alonso,Jenson Button,Sergio Perez,Daniel Ricciardo,0,0
+R026,2011,7,2011-06-12,Canada,Montreal,CAN,North America,Sebastian Vettel,Sebastian Vettel,Sergio Perez,Carlos Sainz,Sebastian Vettel,1,0
+R027,2011,8,2011-06-09,Europe (Valencia),Valencia,ESP,Europe,Sebastian Vettel,Sebastian Vettel,Mark Webber,George Russell,Sebastian Vettel,0,0
+R028,2011,9,2011-07-16,Britain,Silverstone,GBR,Europe,Sebastian Vettel,Sebastian Vettel,Sergio Perez,George Russell,Fernando Alonso,2,0
+R029,2011,10,2011-07-16,Germany,Hockenheim,DEU,Europe,Lewis Hamilton,Sebastian Vettel,Fernando Alonso,Oscar Piastri,Fernando Alonso,1,0
+R030,2011,11,2011-08-01,Hungary,Budapest,HUN,Europe,Sebastian Vettel,Jenson Button,Sebastian Vettel,Pierre Gasly,Pierre Gasly,1,0
+R031,2011,12,2011-08-22,Belgium,Spa-Francorchamps,BEL,Europe,Sebastian Vettel,Sebastian Vettel,Lewis Hamilton,Carlos Sainz,Daniel Ricciardo,1,0
+R032,2011,13,2011-09-14,Italy,Monza,ITA,Europe,Sebastian Vettel,Lewis Hamilton,Jenson Button,Pierre Gasly,Pierre Gasly,1,0
+R033,2011,14,2011-09-13,Singapore,Marina Bay,SGP,Asia,Sebastian Vettel,Sebastian Vettel,Sergio Perez,Fernando Alonso,Fernando Alonso,1,0
+R034,2011,15,2011-10-15,Japan,Suzuka,JPN,Asia,Sebastian Vettel,Mark Webber,Sebastian Vettel,Oscar Piastri,Sebastian Vettel,0,0
+R035,2011,16,2011-10-23,Korea,Yeongam,KOR,Asia,Sebastian Vettel,Sebastian Vettel,Lewis Hamilton,Pierre Gasly,Lewis Hamilton,0,0
+R036,2011,17,2011-11-15,India,Buddh,IND,Asia,Sebastian Vettel,Sebastian Vettel,Jenson Button,Carlos Sainz,Sebastian Vettel,1,0
+R037,2011,18,2011-11-08,Abu Dhabi,Yas Marina,ARE,Middle East,Mark Webber,Sebastian Vettel,Lewis Hamilton,Sergio Perez,Fernando Alonso,1,0
+R038,2011,19,2011-12-21,Brazil,Interlagos,BRA,South America,Mark Webber,Sebastian Vettel,Jenson Button,Carlos Sainz,Fernando Alonso,2,0
+R039,2012,1,2012-03-11,Australia,Albert Park,AUS,Oceania,Lewis Hamilton,Sebastian Vettel,Sergio Perez,Carlos Sainz,Sergio Perez,1,0
+R040,2012,2,2012-03-08,Malaysia,Sepang,MYS,Asia,Nico Rosberg,Mark Webber,Sebastian Vettel,Pierre Gasly,Mark Webber,0,0
+R041,2012,3,2012-03-04,China,Shanghai,CHN,Asia,Mark Webber,Kimi Räikkönen,Mark Webber,Daniel Ricciardo,Daniel Ricciardo,0,0
+R042,2012,4,2012-04-05,Bahrain,Sakhir,BHR,Middle East,Lewis Hamilton,Jenson Button,Lewis Hamilton,Sergio Perez,Jenson Button,2,0
+R043,2012,5,2012-04-06,Spain,Barcelona,ESP,Europe,Lewis Hamilton,Sebastian Vettel,Mark Webber,Fernando Alonso,Mark Webber,2,0
+R044,2012,6,2012-05-27,Monaco,Monte Carlo,MCO,Europe,Sebastian Vettel,Jenson Button,Fernando Alonso,Charles Leclerc,Fernando Alonso,0,0
+R045,2012,7,2012-05-01,Canada,Montreal,CAN,North America,Lewis Hamilton,Lewis Hamilton,Jenson Button,Fernando Alonso,Lewis Hamilton,0,0
+R046,2012,8,2012-06-19,Europe (Valencia),Valencia,ESP,Europe,Sebastian Vettel,Sebastian Vettel,Lando Norris,George Russell,Fernando Alonso,1,0
+R047,2012,9,2012-06-19,Britain,Silverstone,GBR,Europe,Fernando Alonso,Mark Webber,Nico Rosberg,Sergio Perez,Fernando Alonso,0,0
+R048,2012,10,2012-07-22,Germany,Hockenheim,DEU,Europe,Lewis Hamilton,Lewis Hamilton,Sebastian Vettel,Valtteri Bottas,Fernando Alonso,1,0
+R049,2012,11,2012-07-04,Hungary,Budapest,HUN,Europe,Sebastian Vettel,Sebastian Vettel,Jenson Button,George Russell,Sebastian Vettel,2,0
+R050,2012,12,2012-08-11,Belgium,Spa-Francorchamps,BEL,Europe,Sebastian Vettel,Jenson Button,Lando Norris,Fernando Alonso,Fernando Alonso,1,0
+R051,2012,13,2012-08-18,Italy,Monza,ITA,Europe,Lewis Hamilton,Fernando Alonso,Lewis Hamilton,Pierre Gasly,Fernando Alonso,0,0
+R052,2012,14,2012-09-25,Singapore,Marina Bay,SGP,Asia,Mark Webber,Fernando Alonso,Lewis Hamilton,Carlos Sainz,Fernando Alonso,1,0
+R053,2012,15,2012-09-18,Japan,Suzuka,JPN,Asia,Nico Rosberg,Sebastian Vettel,Sergio Perez,Carlos Sainz,Daniel Ricciardo,0,0
+R054,2012,16,2012-10-12,Korea,Yeongam,KOR,Asia,Sebastian Vettel,Lewis Hamilton,Sebastian Vettel,Pierre Gasly,Lewis Hamilton,1,0
+R055,2012,17,2012-10-26,India,Buddh,IND,Asia,Fernando Alonso,Fernando Alonso,Pastor Maldonado,Daniel Ricciardo,Daniel Ricciardo,1,0
+R056,2012,18,2012-11-22,Abu Dhabi,Yas Marina,ARE,Middle East,Lewis Hamilton,Pastor Maldonado,Lewis Hamilton,Carlos Sainz,Lewis Hamilton,0,0
+R057,2012,19,2012-11-23,United States,Austin (COTA),USA,North America,Sebastian Vettel,Nico Rosberg,Jenson Button,Daniel Ricciardo,Jenson Button,0,0
+R058,2012,20,2012-12-15,Brazil,Interlagos,BRA,South America,Sebastian Vettel,Lewis Hamilton,Pastor Maldonado,Sergio Perez,Daniel Ricciardo,2,0
+R059,2013,1,2013-03-11,Australia,Albert Park,AUS,Oceania,Mark Webber,Sebastian Vettel,Charles Leclerc,Fernando Alonso,Daniel Ricciardo,1,0
+R060,2013,2,2013-03-24,Malaysia,Sepang,MYS,Asia,Lewis Hamilton,Sebastian Vettel,Charles Leclerc,Daniel Ricciardo,Daniel Ricciardo,0,0
+R061,2013,3,2013-04-05,China,Shanghai,CHN,Asia,Nico Rosberg,Fernando Alonso,Sergio Perez,Fernando Alonso,Daniel Ricciardo,0,0
+R062,2013,4,2013-04-16,Bahrain,Sakhir,BHR,Middle East,Sebastian Vettel,Sebastian Vettel,Lando Norris,Oscar Piastri,Sebastian Vettel,0,0
+R063,2013,5,2013-05-11,Spain,Barcelona,ESP,Europe,Sebastian Vettel,Sebastian Vettel,Lando Norris,Charles Leclerc,Sebastian Vettel,0,0
+R064,2013,6,2013-05-23,Monaco,Monte Carlo,MCO,Europe,Lewis Hamilton,Kimi Räikkönen,Fernando Alonso,Carlos Sainz,Daniel Ricciardo,2,0
+R065,2013,7,2013-06-03,Canada,Montreal,CAN,North America,Nico Rosberg,Nico Rosberg,Sebastian Vettel,Daniel Ricciardo,Sebastian Vettel,2,0
+R066,2013,8,2013-06-27,Britain,Silverstone,GBR,Europe,Sebastian Vettel,Sebastian Vettel,Nico Rosberg,Daniel Ricciardo,Daniel Ricciardo,2,0
+R067,2013,9,2013-07-18,Germany,Hockenheim,DEU,Europe,Sebastian Vettel,Sebastian Vettel,Lewis Hamilton,Daniel Ricciardo,Fernando Alonso,0,0
+R068,2013,10,2013-07-15,Hungary,Budapest,HUN,Europe,Mark Webber,Sebastian Vettel,Nico Rosberg,Charles Leclerc,Fernando Alonso,2,0
+R069,2013,11,2013-08-13,Belgium,Spa-Francorchamps,BEL,Europe,Sebastian Vettel,Sebastian Vettel,Charles Leclerc,Oscar Piastri,Charles Leclerc,1,0
+R070,2013,12,2013-08-08,Italy,Monza,ITA,Europe,Sebastian Vettel,Fernando Alonso,Sebastian Vettel,George Russell,Fernando Alonso,1,0
+R071,2013,13,2013-09-12,Singapore,Marina Bay,SGP,Asia,Sebastian Vettel,Nico Rosberg,Sebastian Vettel,Fernando Alonso,Fernando Alonso,1,0
+R072,2013,14,2013-09-10,Korea,Yeongam,KOR,Asia,Lewis Hamilton,Lewis Hamilton,Sebastian Vettel,Fernando Alonso,Lewis Hamilton,1,0
+R073,2013,15,2013-10-19,Japan,Suzuka,JPN,Asia,Lewis Hamilton,Sebastian Vettel,Nico Rosberg,Fernando Alonso,Daniel Ricciardo,2,0
+R074,2013,16,2013-10-25,India,Buddh,IND,Asia,Nico Rosberg,Sebastian Vettel,Charles Leclerc,Charles Leclerc,Charles Leclerc,1,0
+R075,2013,17,2013-11-15,Abu Dhabi,Yas Marina,ARE,Middle East,Lewis Hamilton,Sebastian Vettel,Lando Norris,Daniel Ricciardo,Lando Norris,1,0
+R076,2013,18,2013-11-22,United States,Austin (COTA),USA,North America,Sebastian Vettel,Sebastian Vettel,Nico Rosberg,Charles Leclerc,Sebastian Vettel,1,0
+R077,2013,19,2013-12-08,Brazil,Interlagos,BRA,South America,Sebastian Vettel,Sebastian Vettel,Kimi Räikkönen,Valtteri Bottas,Valtteri Bottas,0,0
+R078,2014,1,2014-03-15,Australia,Albert Park,AUS,Oceania,Nico Rosberg,Nico Rosberg,Lewis Hamilton,Valtteri Bottas,Valtteri Bottas,2,0
+R079,2014,2,2014-03-14,Malaysia,Sepang,MYS,Asia,Nico Rosberg,Nico Rosberg,Daniel Ricciardo,Sergio Perez,Fernando Alonso,2,0
+R080,2014,3,2014-04-04,Bahrain,Sakhir,BHR,Middle East,Lewis Hamilton,Lewis Hamilton,Sergio Perez,George Russell,George Russell,0,0
+R081,2014,4,2014-04-18,China,Shanghai,CHN,Asia,Nico Rosberg,Lewis Hamilton,Sergio Perez,Oscar Piastri,Sergio Perez,2,0
+R082,2014,5,2014-05-19,Spain,Barcelona,ESP,Europe,Nico Rosberg,Lewis Hamilton,Sergio Perez,Oscar Piastri,Fernando Alonso,2,0
+R083,2014,6,2014-05-21,Monaco,Monte Carlo,MCO,Europe,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Fernando Alonso,Fernando Alonso,1,0
+R084,2014,7,2014-06-09,Canada,Montreal,CAN,North America,Nico Rosberg,Daniel Ricciardo,Lewis Hamilton,George Russell,Daniel Ricciardo,0,0
+R085,2014,8,2014-06-26,Austria,Red Bull Ring,AUT,Europe,Lewis Hamilton,Nico Rosberg,Lewis Hamilton,Oscar Piastri,Nico Rosberg,1,0
+R086,2014,9,2014-07-20,Britain,Silverstone,GBR,Europe,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Charles Leclerc,Nico Rosberg,2,0
+R087,2014,10,2014-07-22,Germany,Hockenheim,DEU,Europe,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Charles Leclerc,Daniel Ricciardo,1,0
+R088,2014,11,2014-08-27,Hungary,Budapest,HUN,Europe,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Valtteri Bottas,Valtteri Bottas,3,0
+R089,2014,12,2014-08-04,Belgium,Spa-Francorchamps,BEL,Europe,Sebastian Vettel,Daniel Ricciardo,Lewis Hamilton,Daniel Ricciardo,Daniel Ricciardo,1,0
+R090,2014,13,2014-09-04,Italy,Monza,ITA,Europe,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,Sergio Perez,Sergio Perez,1,0
+R091,2014,14,2014-09-01,Singapore,Marina Bay,SGP,Asia,Lewis Hamilton,Nico Rosberg,Lewis Hamilton,Charles Leclerc,Charles Leclerc,2,0
+R092,2014,15,2014-10-08,Japan,Suzuka,JPN,Asia,Nico Rosberg,Lewis Hamilton,Lando Norris,Charles Leclerc,Lewis Hamilton,1,0
+R093,2014,16,2014-10-09,Russia,Sochi,RUS,Europe,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Pierre Gasly,Pierre Gasly,2,0
+R094,2014,17,2014-11-03,United States,Austin (COTA),USA,North America,Nico Rosberg,Daniel Ricciardo,Lewis Hamilton,Pierre Gasly,Daniel Ricciardo,2,0
+R095,2014,18,2014-11-08,Brazil,Interlagos,BRA,South America,Lewis Hamilton,Lewis Hamilton,Sergio Perez,Daniel Ricciardo,Daniel Ricciardo,0,0
+R096,2014,19,2014-12-27,Abu Dhabi,Yas Marina,ARE,Middle East,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Sergio Perez,Daniel Ricciardo,1,0
+R097,2015,1,2015-03-13,Australia,Albert Park,AUS,Oceania,Lewis Hamilton,Sebastian Vettel,Lewis Hamilton,Daniel Ricciardo,Daniel Ricciardo,0,0
+R098,2015,2,2015-03-01,Malaysia,Sepang,MYS,Asia,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Carlos Sainz,Daniel Ricciardo,3,0
+R099,2015,3,2015-04-21,China,Shanghai,CHN,Asia,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Charles Leclerc,Lewis Hamilton,1,0
+R100,2015,4,2015-04-01,Bahrain,Sakhir,BHR,Middle East,Lewis Hamilton,Sebastian Vettel,Lewis Hamilton,George Russell,Fernando Alonso,1,0
+R101,2015,5,2015-05-12,Spain,Barcelona,ESP,Europe,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Oscar Piastri,Lewis Hamilton,0,0
+R102,2015,6,2015-05-11,Monaco,Monte Carlo,MCO,Europe,Lewis Hamilton,Nico Rosberg,Lando Norris,Sergio Perez,Sergio Perez,2,0
+R103,2015,7,2015-06-07,Canada,Montreal,CAN,North America,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,Daniel Ricciardo,0,0
+R104,2015,8,2015-06-07,Austria,Red Bull Ring,AUT,Europe,Lewis Hamilton,Nico Rosberg,Lando Norris,Charles Leclerc,Lando Norris,1,0
+R105,2015,9,2015-07-15,Britain,Silverstone,GBR,Europe,Nico Rosberg,Nico Rosberg,Lewis Hamilton,Fernando Alonso,Daniel Ricciardo,2,0
+R106,2015,10,2015-07-05,Hungary,Budapest,HUN,Europe,Nico Rosberg,Lewis Hamilton,Sebastian Vettel,Charles Leclerc,Charles Leclerc,1,0
+R107,2015,11,2015-08-25,Belgium,Spa-Francorchamps,BEL,Europe,Lewis Hamilton,Sebastian Vettel,Lewis Hamilton,George Russell,Sebastian Vettel,0,0
+R108,2015,12,2015-08-26,Italy,Monza,ITA,Europe,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Carlos Sainz,Nico Rosberg,1,0
+R109,2015,13,2015-09-22,Singapore,Marina Bay,SGP,Asia,Sebastian Vettel,Lewis Hamilton,Nico Rosberg,Oscar Piastri,Daniel Ricciardo,1,0
+R110,2015,14,2015-09-05,Japan,Suzuka,JPN,Asia,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,Nico Rosberg,1,0
+R111,2015,15,2015-10-17,Russia,Sochi,RUS,Europe,Nico Rosberg,Nico Rosberg,Lewis Hamilton,Pierre Gasly,Nico Rosberg,1,0
+R112,2015,16,2015-10-13,United States,Austin (COTA),USA,North America,Nico Rosberg,Lewis Hamilton,Sebastian Vettel,George Russell,Sebastian Vettel,1,0
+R113,2015,17,2015-11-10,Mexico,Mexico City,MEX,North America,Lewis Hamilton,Nico Rosberg,Lewis Hamilton,Sergio Perez,Daniel Ricciardo,1,0
+R114,2015,18,2015-11-16,Brazil,Interlagos,BRA,South America,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Sergio Perez,Nico Rosberg,2,0
+R115,2015,19,2015-12-10,Abu Dhabi,Yas Marina,ARE,Middle East,Lewis Hamilton,Nico Rosberg,Lewis Hamilton,George Russell,George Russell,1,0
+R116,2016,1,2016-03-26,Australia,Albert Park,AUS,Oceania,Lewis Hamilton,Daniel Ricciardo,Max Verstappen,Pierre Gasly,Pierre Gasly,2,0
+R117,2016,2,2016-03-09,Bahrain,Sakhir,BHR,Middle East,Nico Rosberg,Nico Rosberg,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,1,0
+R118,2016,3,2016-03-11,China,Shanghai,CHN,Asia,Nico Rosberg,Max Verstappen,Charles Leclerc,Sergio Perez,Daniel Ricciardo,0,0
+R119,2016,4,2016-04-06,Russia,Sochi,RUS,Europe,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Charles Leclerc,Daniel Ricciardo,0,0
+R120,2016,5,2016-04-05,Spain,Barcelona,ESP,Europe,Nico Rosberg,Nico Rosberg,Lewis Hamilton,Daniel Ricciardo,Fernando Alonso,3,0
+R121,2016,6,2016-05-16,Monaco,Monte Carlo,MCO,Europe,Nico Rosberg,Nico Rosberg,Lewis Hamilton,Daniel Ricciardo,Daniel Ricciardo,3,0
+R122,2016,7,2016-05-04,Canada,Montreal,CAN,North America,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Charles Leclerc,Nico Rosberg,1,0
+R123,2016,8,2016-06-03,Azerbaijan,Baku,AZE,Europe,Lewis Hamilton,Nico Rosberg,Sergio Perez,Valtteri Bottas,Valtteri Bottas,1,0
+R124,2016,9,2016-06-13,Austria,Red Bull Ring,AUT,Europe,Sebastian Vettel,Lewis Hamilton,Charles Leclerc,George Russell,Charles Leclerc,0,0
+R125,2016,10,2016-07-25,Britain,Silverstone,GBR,Europe,Lewis Hamilton,Nico Rosberg,Lando Norris,Carlos Sainz,Nico Rosberg,0,0
+R126,2016,11,2016-07-08,Hungary,Budapest,HUN,Europe,Lewis Hamilton,Nico Rosberg,Lewis Hamilton,Charles Leclerc,Daniel Ricciardo,1,0
+R127,2016,12,2016-07-14,Germany,Hockenheim,DEU,Europe,Lewis Hamilton,Lewis Hamilton,Daniel Ricciardo,Carlos Sainz,Fernando Alonso,0,0
+R128,2016,13,2016-08-23,Belgium,Spa-Francorchamps,BEL,Europe,Lewis Hamilton,Lewis Hamilton,Sergio Perez,Sergio Perez,Sergio Perez,1,0
+R129,2016,14,2016-08-19,Italy,Monza,ITA,Europe,Lewis Hamilton,Lewis Hamilton,Sergio Perez,Valtteri Bottas,Daniel Ricciardo,0,0
+R130,2016,15,2016-09-10,Singapore,Marina Bay,SGP,Asia,Nico Rosberg,Nico Rosberg,Lewis Hamilton,Charles Leclerc,Fernando Alonso,1,0
+R131,2016,16,2016-09-23,Malaysia,Sepang,MYS,Asia,Lewis Hamilton,Lewis Hamilton,Nico Rosberg,Charles Leclerc,Daniel Ricciardo,2,0
+R132,2016,17,2016-10-24,Japan,Suzuka,JPN,Asia,Nico Rosberg,Nico Rosberg,Lewis Hamilton,Charles Leclerc,Lewis Hamilton,2,0
+R133,2016,18,2016-10-16,United States,Austin (COTA),USA,North America,Nico Rosberg,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,Daniel Ricciardo,1,0
+R134,2016,19,2016-11-14,Mexico,Mexico City,MEX,North America,Lewis Hamilton,Lewis Hamilton,Sergio Perez,Charles Leclerc,Lewis Hamilton,0,0
+R135,2016,20,2016-11-11,Brazil,Interlagos,BRA,South America,Nico Rosberg,Lewis Hamilton,Lando Norris,Pierre Gasly,Lando Norris,1,0
+R136,2016,21,2016-12-05,Abu Dhabi,Yas Marina,ARE,Middle East,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,Oscar Piastri,Daniel Ricciardo,0,0
+R137,2017,1,2017-03-08,Australia,Albert Park,AUS,Oceania,Sebastian Vettel,Lewis Hamilton,Sergio Perez,Valtteri Bottas,Daniel Ricciardo,1,0
+R138,2017,2,2017-03-10,China,Shanghai,CHN,Asia,Lewis Hamilton,Valtteri Bottas,Lewis Hamilton,George Russell,George Russell,0,0
+R139,2017,3,2017-03-21,Bahrain,Sakhir,BHR,Middle East,Lewis Hamilton,Valtteri Bottas,Lando Norris,Charles Leclerc,Fernando Alonso,3,0
+R140,2017,4,2017-04-13,Russia,Sochi,RUS,Europe,Lewis Hamilton,Lewis Hamilton,Valtteri Bottas,Pierre Gasly,Lewis Hamilton,1,0
+R141,2017,5,2017-04-22,Spain,Barcelona,ESP,Europe,Lewis Hamilton,Max Verstappen,Lewis Hamilton,Carlos Sainz,Carlos Sainz,1,0
+R142,2017,6,2017-05-22,Monaco,Monte Carlo,MCO,Europe,Lewis Hamilton,Max Verstappen,Valtteri Bottas,Pierre Gasly,Valtteri Bottas,2,0
+R143,2017,7,2017-05-01,Canada,Montreal,CAN,North America,Valtteri Bottas,Lewis Hamilton,Valtteri Bottas,Oscar Piastri,Valtteri Bottas,0,0
+R144,2017,8,2017-06-03,Azerbaijan,Baku,AZE,Europe,Sebastian Vettel,Valtteri Bottas,Charles Leclerc,Valtteri Bottas,Daniel Ricciardo,1,0
+R145,2017,9,2017-06-21,Austria,Red Bull Ring,AUT,Europe,Sebastian Vettel,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,Valtteri Bottas,1,0
+R146,2017,10,2017-07-22,Britain,Silverstone,GBR,Europe,Stoffel Vandoorne,Lewis Hamilton,Sebastian Vettel,Carlos Sainz,Lewis Hamilton,0,0
+R147,2017,11,2017-07-17,Hungary,Budapest,HUN,Europe,Lewis Hamilton,Sebastian Vettel,Max Verstappen,Daniel Ricciardo,Fernando Alonso,0,0
+R148,2017,12,2017-08-14,Belgium,Spa-Francorchamps,BEL,Europe,Lewis Hamilton,Sebastian Vettel,Max Verstappen,Valtteri Bottas,Daniel Ricciardo,0,0
+R149,2017,13,2017-08-11,Italy,Monza,ITA,Europe,Sebastian Vettel,Sebastian Vettel,Lewis Hamilton,Pierre Gasly,Lewis Hamilton,1,0
+R150,2017,14,2017-09-07,Singapore,Marina Bay,SGP,Asia,Lewis Hamilton,Lewis Hamilton,Sebastian Vettel,Daniel Ricciardo,Daniel Ricciardo,1,0
+R151,2017,15,2017-09-24,Malaysia,Sepang,MYS,Asia,Lewis Hamilton,Lewis Hamilton,Charles Leclerc,Fernando Alonso,Fernando Alonso,1,0
+R152,2017,16,2017-10-11,Japan,Suzuka,JPN,Asia,Lewis Hamilton,Lewis Hamilton,Valtteri Bottas,Fernando Alonso,Fernando Alonso,2,0
+R153,2017,17,2017-10-06,United States,Austin (COTA),USA,North America,Valtteri Bottas,Sebastian Vettel,Lewis Hamilton,Carlos Sainz,Carlos Sainz,1,0
+R154,2017,18,2017-11-20,Mexico,Mexico City,MEX,North America,Valtteri Bottas,Daniel Ricciardo,Lewis Hamilton,Daniel Ricciardo,Daniel Ricciardo,3,0
+R155,2017,19,2017-11-09,Brazil,Interlagos,BRA,South America,Lewis Hamilton,Lewis Hamilton,Sebastian Vettel,Oscar Piastri,Lewis Hamilton,0,0
+R156,2017,20,2017-12-16,Abu Dhabi,Yas Marina,ARE,Middle East,Valtteri Bottas,Sebastian Vettel,Lewis Hamilton,Pierre Gasly,Daniel Ricciardo,1,0
+R157,2018,1,2018-03-17,Australia,Albert Park,AUS,Oceania,Lewis Hamilton,Lewis Hamilton,Daniel Ricciardo,Carlos Sainz,Daniel Ricciardo,0,0
+R158,2018,2,2018-03-09,Bahrain,Sakhir,BHR,Middle East,Sebastian Vettel,Lewis Hamilton,Kimi Räikkönen,George Russell,Lewis Hamilton,2,0
+R159,2018,3,2018-03-01,China,Shanghai,CHN,Asia,Lewis Hamilton,Lewis Hamilton,Sebastian Vettel,Carlos Sainz,Carlos Sainz,2,0
+R160,2018,4,2018-04-16,Azerbaijan,Baku,AZE,Europe,Sebastian Vettel,Lewis Hamilton,Sergio Perez,Sergio Perez,Sergio Perez,1,0
+R161,2018,5,2018-04-26,Spain,Barcelona,ESP,Europe,Lewis Hamilton,Lewis Hamilton,Lando Norris,Sergio Perez,Daniel Ricciardo,2,0
+R162,2018,6,2018-05-19,Monaco,Monte Carlo,MCO,Europe,Kimi Räikkönen,Lewis Hamilton,Charles Leclerc,Fernando Alonso,Daniel Ricciardo,0,0
+R163,2018,7,2018-05-05,Canada,Montreal,CAN,North America,Sebastian Vettel,Sebastian Vettel,Lewis Hamilton,Fernando Alonso,Sebastian Vettel,1,0
+R164,2018,8,2018-06-09,France,Paul Ricard,FRA,Europe,Lewis Hamilton,Lewis Hamilton,Lando Norris,Daniel Ricciardo,Daniel Ricciardo,1,0
+R165,2018,9,2018-06-04,Austria,Red Bull Ring,AUT,Europe,Sebastian Vettel,Max Verstappen,Lewis Hamilton,Pierre Gasly,Fernando Alonso,0,0
+R166,2018,10,2018-07-08,Britain,Silverstone,GBR,Europe,Sebastian Vettel,Max Verstappen,Lewis Hamilton,Carlos Sainz,Lewis Hamilton,0,0
+R167,2018,11,2018-07-27,Germany,Hockenheim,DEU,Europe,Valtteri Bottas,Sebastian Vettel,Max Verstappen,Fernando Alonso,Fernando Alonso,1,0
+R168,2018,12,2018-07-02,Hungary,Budapest,HUN,Europe,Valtteri Bottas,Kimi Räikkönen,Lewis Hamilton,Daniel Ricciardo,Kimi Räikkönen,1,0
+R169,2018,13,2018-08-21,Belgium,Spa-Francorchamps,BEL,Europe,Lewis Hamilton,Lewis Hamilton,Sebastian Vettel,Pierre Gasly,Daniel Ricciardo,0,0
+R170,2018,14,2018-08-27,Italy,Monza,ITA,Europe,Lewis Hamilton,Sebastian Vettel,Lewis Hamilton,Charles Leclerc,Lewis Hamilton,1,0
+R171,2018,15,2018-09-05,Singapore,Marina Bay,SGP,Asia,Lewis Hamilton,Sebastian Vettel,Lewis Hamilton,Fernando Alonso,Sebastian Vettel,2,0
+R172,2018,16,2018-09-05,Russia,Sochi,RUS,Europe,Lewis Hamilton,Daniel Ricciardo,Lewis Hamilton,Carlos Sainz,Carlos Sainz,1,0
+R173,2018,17,2018-10-01,Japan,Suzuka,JPN,Asia,Kimi Räikkönen,Lewis Hamilton,Kimi Räikkönen,Oscar Piastri,Oscar Piastri,2,0
+R174,2018,18,2018-10-13,United States,Austin (COTA),USA,North America,Kimi Räikkönen,Daniel Ricciardo,Lewis Hamilton,Charles Leclerc,Lewis Hamilton,1,0
+R175,2018,19,2018-11-17,Mexico,Mexico City,MEX,North America,Lewis Hamilton,Lewis Hamilton,Sebastian Vettel,Pierre Gasly,Pierre Gasly,1,0
+R176,2018,20,2018-11-10,Brazil,Interlagos,BRA,South America,Lewis Hamilton,Sebastian Vettel,Lewis Hamilton,Valtteri Bottas,Lewis Hamilton,2,0
+R177,2018,21,2018-12-14,Abu Dhabi,Yas Marina,ARE,Middle East,Lewis Hamilton,Lewis Hamilton,Sebastian Vettel,Charles Leclerc,Charles Leclerc,1,0
+R178,2019,1,2019-03-05,Australia,Albert Park,AUS,Oceania,Sebastian Vettel,Lewis Hamilton,Max Verstappen,Charles Leclerc,Daniel Ricciardo,1,0
+R179,2019,2,2019-03-09,Bahrain,Sakhir,BHR,Middle East,Valtteri Bottas,Lewis Hamilton,Sebastian Vettel,Charles Leclerc,Charles Leclerc,1,0
+R180,2019,3,2019-03-23,China,Shanghai,CHN,Asia,Charles Leclerc,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,Lewis Hamilton,1,0
+R181,2019,4,2019-04-11,Azerbaijan,Baku,AZE,Europe,Lewis Hamilton,Max Verstappen,Lewis Hamilton,Valtteri Bottas,Max Verstappen,1,0
+R182,2019,5,2019-04-23,Spain,Barcelona,ESP,Europe,Charles Leclerc,Lewis Hamilton,Charles Leclerc,Fernando Alonso,Daniel Ricciardo,1,0
+R183,2019,6,2019-05-04,Monaco,Monte Carlo,MCO,Europe,Charles Leclerc,Lewis Hamilton,Charles Leclerc,George Russell,George Russell,0,0
+R184,2019,7,2019-05-21,Canada,Montreal,CAN,North America,Valtteri Bottas,Valtteri Bottas,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,0,0
+R185,2019,8,2019-06-22,France,Paul Ricard,FRA,Europe,Sebastian Vettel,Lewis Hamilton,Valtteri Bottas,George Russell,Fernando Alonso,0,0
+R186,2019,9,2019-06-25,Austria,Red Bull Ring,AUT,Europe,Charles Leclerc,Lewis Hamilton,Max Verstappen,Charles Leclerc,Fernando Alonso,1,0
+R187,2019,10,2019-07-11,Britain,Silverstone,GBR,Europe,Charles Leclerc,Sebastian Vettel,Lewis Hamilton,Sergio Perez,Fernando Alonso,2,0
+R188,2019,11,2019-07-12,Germany,Hockenheim,DEU,Europe,Charles Leclerc,Lewis Hamilton,Valtteri Bottas,George Russell,Daniel Ricciardo,0,0
+R189,2019,12,2019-07-20,Hungary,Budapest,HUN,Europe,Valtteri Bottas,Valtteri Bottas,Lewis Hamilton,Charles Leclerc,Charles Leclerc,0,0
+R190,2019,13,2019-08-10,Belgium,Spa-Francorchamps,BEL,Europe,Valtteri Bottas,Max Verstappen,Valtteri Bottas,Pierre Gasly,Fernando Alonso,0,0
+R191,2019,14,2019-08-02,Italy,Monza,ITA,Europe,Max Verstappen,Lewis Hamilton,Max Verstappen,George Russell,Max Verstappen,2,0
+R192,2019,15,2019-09-23,Singapore,Marina Bay,SGP,Asia,Lewis Hamilton,Valtteri Bottas,Lewis Hamilton,Sergio Perez,Daniel Ricciardo,1,0
+R193,2019,16,2019-09-15,Russia,Sochi,RUS,Europe,Charles Leclerc,Valtteri Bottas,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,1,0
+R194,2019,17,2019-10-21,Japan,Suzuka,JPN,Asia,Lewis Hamilton,Max Verstappen,Lewis Hamilton,Fernando Alonso,Daniel Ricciardo,3,0
+R195,2019,18,2019-10-05,Mexico,Mexico City,MEX,North America,Lewis Hamilton,Charles Leclerc,Sebastian Vettel,Pierre Gasly,Pierre Gasly,0,0
+R196,2019,19,2019-11-01,United States,Austin (COTA),USA,North America,Max Verstappen,Lewis Hamilton,Sergio Perez,Oscar Piastri,Oscar Piastri,1,0
+R197,2019,20,2019-11-26,Brazil,Interlagos,BRA,South America,Valtteri Bottas,Charles Leclerc,Lewis Hamilton,Valtteri Bottas,Fernando Alonso,1,0
+R198,2019,21,2019-12-05,Abu Dhabi,Yas Marina,ARE,Middle East,Lewis Hamilton,Lewis Hamilton,Charles Leclerc,Charles Leclerc,Lewis Hamilton,3,0
+R199,2020,1,2020-03-03,Austria,Red Bull Ring,AUT,Europe,Lewis Hamilton,Lewis Hamilton,Sergio Perez,George Russell,George Russell,1,0
+R200,2020,2,2020-03-01,Styria,Red Bull Ring,AUT,Europe,Lewis Hamilton,Lewis Hamilton,Max Verstappen,Pierre Gasly,Fernando Alonso,1,0
+R201,2020,3,2020-04-20,Hungary,Budapest,HUN,Europe,Lewis Hamilton,Lewis Hamilton,Lando Norris,Daniel Ricciardo,Daniel Ricciardo,1,0
+R202,2020,4,2020-04-09,Britain,Silverstone,GBR,Europe,Lewis Hamilton,Lewis Hamilton,Pierre Gasly,Sergio Perez,Pierre Gasly,1,0
+R203,2020,5,2020-05-12,70th Anniversary,Silverstone,GBR,Europe,Valtteri Bottas,Lewis Hamilton,Sergio Perez,Sergio Perez,Sergio Perez,2,0
+R204,2020,6,2020-05-13,Spain,Barcelona,ESP,Europe,Lewis Hamilton,Sergio Perez,Lewis Hamilton,George Russell,Lewis Hamilton,1,0
+R205,2020,7,2020-06-11,Belgium,Spa-Francorchamps,BEL,Europe,Lewis Hamilton,Max Verstappen,Lewis Hamilton,George Russell,Lewis Hamilton,0,0
+R206,2020,8,2020-06-19,Italy,Monza,ITA,Europe,Valtteri Bottas,Lewis Hamilton,Sergio Perez,Oscar Piastri,Daniel Ricciardo,3,0
+R207,2020,9,2020-07-07,Tuscany,Mugello,ITA,Europe,Lewis Hamilton,Valtteri Bottas,Lewis Hamilton,Carlos Sainz,Carlos Sainz,2,0
+R208,2020,10,2020-08-24,Russia,Sochi,RUS,Europe,Lewis Hamilton,Lewis Hamilton,Pierre Gasly,Fernando Alonso,Fernando Alonso,0,0
+R209,2020,11,2020-08-06,Eifel,Nurburgring,DEU,Europe,Lewis Hamilton,Lewis Hamilton,Valtteri Bottas,Charles Leclerc,Charles Leclerc,1,0
+R210,2020,12,2020-09-08,Portugal,Portimao,PRT,Europe,Max Verstappen,Pierre Gasly,Lewis Hamilton,Carlos Sainz,Pierre Gasly,1,0
+R211,2020,13,2020-09-26,Emilia-Romagna,Imola,ITA,Europe,Valtteri Bottas,Lewis Hamilton,Valtteri Bottas,Sergio Perez,Fernando Alonso,1,0
+R212,2020,14,2020-10-03,Turkey,Istanbul Park,TUR,Europe,Valtteri Bottas,Valtteri Bottas,Lewis Hamilton,Fernando Alonso,Lewis Hamilton,0,0
+R213,2020,15,2020-10-21,Bahrain,Sakhir,BHR,Middle East,Valtteri Bottas,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,Lewis Hamilton,2,0
+R214,2020,16,2020-11-27,Sakhir,Sakhir Outer,BHR,Middle East,Lewis Hamilton,Max Verstappen,Lewis Hamilton,Pierre Gasly,Pierre Gasly,3,0
+R215,2020,17,2020-12-02,Abu Dhabi,Yas Marina,ARE,Middle East,Lance Stroll,Lewis Hamilton,Pierre Gasly,George Russell,Pierre Gasly,1,0
+R216,2021,1,2021-03-21,Bahrain,Sakhir,BHR,Middle East,Max Verstappen,Max Verstappen,Lewis Hamilton,Charles Leclerc,Charles Leclerc,0,0
+R217,2021,2,2021-03-09,Emilia-Romagna,Imola,ITA,Europe,Lewis Hamilton,Max Verstappen,Lewis Hamilton,Fernando Alonso,Max Verstappen,2,0
+R218,2021,3,2021-03-03,Portugal,Portimao,PRT,Europe,Lewis Hamilton,Lewis Hamilton,Charles Leclerc,Carlos Sainz,Daniel Ricciardo,1,0
+R219,2021,4,2021-04-08,Spain,Barcelona,ESP,Europe,Lando Norris,Max Verstappen,Valtteri Bottas,Charles Leclerc,Charles Leclerc,1,0
+R220,2021,5,2021-04-23,Monaco,Monte Carlo,MCO,Europe,Lando Norris,Daniel Ricciardo,Max Verstappen,Oscar Piastri,Daniel Ricciardo,0,0
+R221,2021,6,2021-05-05,Azerbaijan,Baku,AZE,Europe,Max Verstappen,Max Verstappen,Lando Norris,Carlos Sainz,Carlos Sainz,3,1
+R222,2021,7,2021-05-11,France,Paul Ricard,FRA,Europe,Charles Leclerc,Lewis Hamilton,Max Verstappen,Pierre Gasly,Max Verstappen,0,0
+R223,2021,8,2021-06-24,Styria,Red Bull Ring,AUT,Europe,Max Verstappen,Lewis Hamilton,Max Verstappen,Oscar Piastri,Lewis Hamilton,2,0
+R224,2021,9,2021-06-01,Austria,Red Bull Ring,AUT,Europe,Charles Leclerc,Esteban Ocon,Lewis Hamilton,Pierre Gasly,Daniel Ricciardo,1,0
+R225,2021,10,2021-06-15,Britain,Silverstone,GBR,Europe,Max Verstappen,Max Verstappen,Valtteri Bottas,Sergio Perez,Max Verstappen,3,0
+R226,2021,11,2021-07-23,Hungary,Budapest,HUN,Europe,Max Verstappen,Lewis Hamilton,Max Verstappen,Oscar Piastri,Oscar Piastri,0,0
+R227,2021,12,2021-07-19,Belgium,Spa-Francorchamps,BEL,Europe,Lando Norris,Max Verstappen,Lewis Hamilton,Sergio Perez,Max Verstappen,1,0
+R228,2021,13,2021-08-18,Netherlands,Zandvoort,NLD,Europe,Lewis Hamilton,Lewis Hamilton,Max Verstappen,Carlos Sainz,Daniel Ricciardo,2,0
+R229,2021,14,2021-08-23,Italy,Monza,ITA,Europe,Lando Norris,Valtteri Bottas,Max Verstappen,George Russell,Fernando Alonso,1,0
+R230,2021,15,2021-09-21,Russia,Sochi,RUS,Europe,Max Verstappen,Max Verstappen,Lewis Hamilton,Charles Leclerc,Fernando Alonso,0,0
+R231,2021,16,2021-09-24,Turkey,Istanbul Park,TUR,Europe,Lewis Hamilton,Lewis Hamilton,Max Verstappen,Oscar Piastri,Oscar Piastri,0,0
+R232,2021,17,2021-09-12,United States,Austin (COTA),USA,North America,Max Verstappen,Lewis Hamilton,Max Verstappen,Daniel Ricciardo,Daniel Ricciardo,1,0
+R233,2021,18,2021-10-18,Mexico,Mexico City,MEX,North America,Lewis Hamilton,Max Verstappen,Esteban Ocon,Oscar Piastri,Daniel Ricciardo,1,0
+R234,2021,19,2021-10-09,Sao Paulo,Interlagos,BRA,South America,Max Verstappen,Max Verstappen,Lewis Hamilton,Sergio Perez,Sergio Perez,1,0
+R235,2021,20,2021-11-15,Qatar,Lusail,QAT,Middle East,Max Verstappen,Max Verstappen,Lewis Hamilton,Sergio Perez,Max Verstappen,1,0
+R236,2021,21,2021-11-16,Saudi Arabia,Jeddah,SAU,Middle East,Max Verstappen,Sergio Perez,Max Verstappen,Pierre Gasly,Pierre Gasly,2,0
+R237,2021,22,2021-12-21,Abu Dhabi,Yas Marina,ARE,Middle East,Valtteri Bottas,Lewis Hamilton,Max Verstappen,Fernando Alonso,Fernando Alonso,1,0
+R238,2022,1,2022-03-25,Bahrain,Sakhir,BHR,Middle East,Max Verstappen,Sergio Perez,Max Verstappen,George Russell,George Russell,1,0
+R239,2022,2,2022-03-19,Saudi Arabia,Jeddah,SAU,Middle East,Max Verstappen,Charles Leclerc,Max Verstappen,Pierre Gasly,Daniel Ricciardo,1,0
+R240,2022,3,2022-03-07,Australia,Albert Park,AUS,Oceania,Carlos Sainz,Max Verstappen,Carlos Sainz,Sergio Perez,Daniel Ricciardo,1,0
+R241,2022,4,2022-04-27,Emilia-Romagna,Imola,ITA,Europe,Carlos Sainz,Max Verstappen,George Russell,Oscar Piastri,Oscar Piastri,1,0
+R242,2022,5,2022-04-01,Miami,Miami Intl,USA,North America,Charles Leclerc,Max Verstappen,George Russell,Oscar Piastri,George Russell,2,0
+R243,2022,6,2022-05-12,Spain,Barcelona,ESP,Europe,George Russell,Max Verstappen,Charles Leclerc,Pierre Gasly,Charles Leclerc,2,0
+R244,2022,7,2022-05-09,Monaco,Monte Carlo,MCO,Europe,Charles Leclerc,Max Verstappen,Charles Leclerc,Charles Leclerc,Charles Leclerc,1,0
+R245,2022,8,2022-06-18,Azerbaijan,Baku,AZE,Europe,Sergio Perez,Charles Leclerc,Max Verstappen,Oscar Piastri,Fernando Alonso,0,0
+R246,2022,9,2022-06-25,Canada,Montreal,CAN,North America,Max Verstappen,Carlos Sainz,Charles Leclerc,Daniel Ricciardo,Carlos Sainz,3,0
+R247,2022,10,2022-06-21,Britain,Silverstone,GBR,Europe,Charles Leclerc,Sergio Perez,Lando Norris,Valtteri Bottas,Daniel Ricciardo,2,0
+R248,2022,11,2022-07-13,Austria,Red Bull Ring,AUT,Europe,Charles Leclerc,Max Verstappen,Charles Leclerc,Fernando Alonso,Charles Leclerc,1,1
+R249,2022,12,2022-07-07,France,Paul Ricard,FRA,Europe,Charles Leclerc,Max Verstappen,Sergio Perez,Sergio Perez,Sergio Perez,1,0
+R250,2022,13,2022-08-06,Hungary,Budapest,HUN,Europe,Charles Leclerc,Max Verstappen,Charles Leclerc,Daniel Ricciardo,Charles Leclerc,2,1
+R251,2022,14,2022-08-01,Belgium,Spa-Francorchamps,BEL,Europe,Max Verstappen,George Russell,Sergio Perez,Oscar Piastri,Sergio Perez,2,0
+R252,2022,15,2022-09-04,Netherlands,Zandvoort,NLD,Europe,Charles Leclerc,Max Verstappen,Charles Leclerc,Valtteri Bottas,Max Verstappen,0,0
+R253,2022,16,2022-09-11,Italy,Monza,ITA,Europe,Max Verstappen,Max Verstappen,Sergio Perez,Pierre Gasly,Max Verstappen,0,1
+R254,2022,17,2022-09-12,Singapore,Marina Bay,SGP,Asia,Charles Leclerc,Charles Leclerc,Max Verstappen,Sergio Perez,Max Verstappen,2,0
+R255,2022,18,2022-10-27,Japan,Suzuka,JPN,Asia,Charles Leclerc,Max Verstappen,Charles Leclerc,Carlos Sainz,Carlos Sainz,0,0
+R256,2022,19,2022-10-22,United States,Austin (COTA),USA,North America,Kevin Magnussen,Max Verstappen,Charles Leclerc,Fernando Alonso,Fernando Alonso,2,0
+R257,2022,20,2022-11-04,Mexico,Mexico City,MEX,North America,Max Verstappen,Max Verstappen,Sergio Perez,Daniel Ricciardo,Max Verstappen,0,0
+R258,2022,21,2022-11-12,Sao Paulo,Interlagos,BRA,South America,Carlos Sainz,Max Verstappen,George Russell,Charles Leclerc,Daniel Ricciardo,1,0
+R259,2022,22,2022-12-18,Abu Dhabi,Yas Marina,ARE,Middle East,Max Verstappen,Max Verstappen,Sergio Perez,Pierre Gasly,Max Verstappen,3,0
+R260,2023,1,2023-03-01,Bahrain,Sakhir,BHR,Middle East,Charles Leclerc,Max Verstappen,Sergio Perez,Oscar Piastri,Max Verstappen,2,0
+R261,2023,2,2023-03-01,Saudi Arabia,Jeddah,SAU,Middle East,Charles Leclerc,Max Verstappen,Sergio Perez,Sergio Perez,Sergio Perez,2,0
+R262,2023,3,2023-03-05,Australia,Albert Park,AUS,Oceania,Max Verstappen,Max Verstappen,Sergio Perez,George Russell,Sergio Perez,2,0
+R263,2023,4,2023-04-23,Azerbaijan,Baku,AZE,Europe,Max Verstappen,Max Verstappen,Sergio Perez,Charles Leclerc,Charles Leclerc,2,1
+R264,2023,5,2023-04-11,Miami,Miami Intl,USA,North America,Lando Norris,Sergio Perez,Max Verstappen,Valtteri Bottas,Max Verstappen,0,0
+R265,2023,6,2023-05-14,Monaco,Monte Carlo,MCO,Europe,Carlos Sainz,Max Verstappen,Sergio Perez,Valtteri Bottas,Sergio Perez,1,0
+R266,2023,7,2023-05-10,Spain,Barcelona,ESP,Europe,Max Verstappen,Max Verstappen,Sergio Perez,George Russell,Daniel Ricciardo,0,0
+R267,2023,8,2023-06-21,Canada,Montreal,CAN,North America,Max Verstappen,Max Verstappen,Lando Norris,George Russell,Lando Norris,0,0
+R268,2023,9,2023-06-05,Austria,Red Bull Ring,AUT,Europe,Max Verstappen,Max Verstappen,Sergio Perez,George Russell,Daniel Ricciardo,2,0
+R269,2023,10,2023-06-27,Britain,Silverstone,GBR,Europe,Charles Leclerc,Max Verstappen,Lando Norris,George Russell,Fernando Alonso,1,0
+R270,2023,11,2023-07-11,Hungary,Budapest,HUN,Europe,Charles Leclerc,Max Verstappen,Carlos Sainz,Daniel Ricciardo,Daniel Ricciardo,3,0
+R271,2023,12,2023-07-06,Belgium,Spa-Francorchamps,BEL,Europe,Max Verstappen,Max Verstappen,Sergio Perez,George Russell,Sergio Perez,1,1
+R272,2023,13,2023-08-20,Netherlands,Zandvoort,NLD,Europe,Max Verstappen,Max Verstappen,Sergio Perez,Sergio Perez,Sergio Perez,1,0
+R273,2023,14,2023-08-23,Italy,Monza,ITA,Europe,Max Verstappen,Max Verstappen,Sergio Perez,Valtteri Bottas,Fernando Alonso,0,1
+R274,2023,15,2023-09-17,Singapore,Marina Bay,SGP,Asia,Charles Leclerc,Max Verstappen,Sergio Perez,Charles Leclerc,Sergio Perez,0,0
+R275,2023,16,2023-09-12,Japan,Suzuka,JPN,Asia,Max Verstappen,Max Verstappen,Carlos Sainz,Valtteri Bottas,Carlos Sainz,2,0
+R276,2023,17,2023-09-16,Qatar,Lusail,QAT,Middle East,Sergio Perez,Max Verstappen,Sergio Perez,Oscar Piastri,Max Verstappen,0,0
+R277,2023,18,2023-10-09,United States,Austin (COTA),USA,North America,Max Verstappen,Max Verstappen,Sergio Perez,Sergio Perez,Sergio Perez,1,1
+R278,2023,19,2023-10-01,Mexico,Mexico City,MEX,North America,Lewis Hamilton,Max Verstappen,Sergio Perez,George Russell,Daniel Ricciardo,2,0
+R279,2023,20,2023-11-18,Sao Paulo,Interlagos,BRA,South America,Carlos Sainz,Carlos Sainz,Max Verstappen,George Russell,Fernando Alonso,2,0
+R280,2023,21,2023-11-13,Las Vegas,Vegas Strip,USA,North America,Max Verstappen,Max Verstappen,Lando Norris,Pierre Gasly,Lando Norris,0,0
+R281,2023,22,2023-12-06,Abu Dhabi,Yas Marina,ARE,Middle East,Max Verstappen,Sergio Perez,Max Verstappen,Sergio Perez,Max Verstappen,0,0
+R282,2024,1,2024-03-14,Bahrain,Sakhir,BHR,Middle East,George Russell,Charles Leclerc,Lando Norris,Pierre Gasly,Fernando Alonso,1,0
+R283,2024,2,2024-03-11,Saudi Arabia,Jeddah,SAU,Middle East,Lance Stroll,Max Verstappen,Lando Norris,Sergio Perez,Daniel Ricciardo,0,0
+R284,2024,3,2024-03-09,Australia,Albert Park,AUS,Oceania,Lando Norris,Max Verstappen,Carlos Sainz,George Russell,Daniel Ricciardo,0,0
+R285,2024,4,2024-04-24,Japan,Suzuka,JPN,Asia,Max Verstappen,Oscar Piastri,Charles Leclerc,Sergio Perez,Daniel Ricciardo,1,0
+R286,2024,5,2024-04-12,China,Shanghai,CHN,Asia,Max Verstappen,Lewis Hamilton,Lando Norris,Oscar Piastri,Fernando Alonso,1,0
+R287,2024,6,2024-04-26,Miami,Miami Intl,USA,North America,Oscar Piastri,Max Verstappen,Carlos Sainz,Oscar Piastri,Fernando Alonso,1,0
+R288,2024,7,2024-05-16,Emilia-Romagna,Imola,ITA,Europe,Max Verstappen,Carlos Sainz,Charles Leclerc,Charles Leclerc,Charles Leclerc,1,0
+R289,2024,8,2024-05-15,Monaco,Monte Carlo,MCO,Europe,Carlos Sainz,Lando Norris,Oscar Piastri,Fernando Alonso,Lando Norris,1,0
+R290,2024,9,2024-06-11,Canada,Montreal,CAN,North America,Lando Norris,Max Verstappen,Charles Leclerc,Carlos Sainz,Carlos Sainz,0,0
+R291,2024,10,2024-06-20,Spain,Barcelona,ESP,Europe,Lando Norris,Oscar Piastri,Lando Norris,Oscar Piastri,Daniel Ricciardo,0,0
+R292,2024,11,2024-06-16,Austria,Red Bull Ring,AUT,Europe,Carlos Sainz,Charles Leclerc,Carlos Sainz,Valtteri Bottas,Fernando Alonso,0,0
+R293,2024,12,2024-07-26,Britain,Silverstone,GBR,Europe,Charles Leclerc,Lewis Hamilton,Max Verstappen,Sergio Perez,Daniel Ricciardo,1,1
+R294,2024,13,2024-07-26,Hungary,Budapest,HUN,Europe,Max Verstappen,Lando Norris,Max Verstappen,Oscar Piastri,Fernando Alonso,2,0
+R295,2024,14,2024-08-01,Belgium,Spa-Francorchamps,BEL,Europe,Max Verstappen,Max Verstappen,Lando Norris,Carlos Sainz,Max Verstappen,1,0
+R296,2024,15,2024-08-01,Netherlands,Zandvoort,NLD,Europe,Charles Leclerc,Max Verstappen,Charles Leclerc,Valtteri Bottas,Charles Leclerc,2,0
+R297,2024,16,2024-08-14,Italy,Monza,ITA,Europe,Lando Norris,Charles Leclerc,Max Verstappen,Charles Leclerc,Fernando Alonso,0,0
+R298,2024,17,2024-09-09,Azerbaijan,Baku,AZE,Europe,Max Verstappen,George Russell,Sergio Perez,Daniel Ricciardo,George Russell,1,0
+R299,2024,18,2024-09-08,Singapore,Marina Bay,SGP,Asia,Lando Norris,Max Verstappen,George Russell,George Russell,Max Verstappen,2,0
+R300,2024,19,2024-10-14,United States,Austin (COTA),USA,North America,Lando Norris,Lando Norris,Lewis Hamilton,Charles Leclerc,Daniel Ricciardo,3,0
+R301,2024,20,2024-10-24,Mexico,Mexico City,MEX,North America,Max Verstappen,George Russell,Lando Norris,George Russell,Fernando Alonso,1,0
+R302,2024,21,2024-10-24,Sao Paulo,Interlagos,BRA,South America,Max Verstappen,Max Verstappen,George Russell,Oscar Piastri,Oscar Piastri,0,0
+R303,2024,22,2024-11-14,Las Vegas,Vegas Strip,USA,North America,Lando Norris,Carlos Sainz,Lando Norris,Sergio Perez,Daniel Ricciardo,3,0
+R304,2024,23,2024-11-17,Qatar,Lusail,QAT,Middle East,Lando Norris,Max Verstappen,Charles Leclerc,Oscar Piastri,Max Verstappen,1,0
+R305,2024,24,2024-12-04,Abu Dhabi,Yas Marina,ARE,Middle East,Charles Leclerc,Lando Norris,Sergio Perez,Daniel Ricciardo,Lando Norris,2,0
+R306,2025,1,2025-03-26,Australia,Albert Park,AUS,Oceania,Lando Norris,Carlos Sainz,Lando Norris,Carlos Sainz,Carlos Sainz,1,0
+R307,2025,2,2025-03-09,China,Shanghai,CHN,Asia,Charles Leclerc,George Russell,Max Verstappen,Pierre Gasly,Daniel Ricciardo,0,0
+R308,2025,3,2025-03-23,Japan,Suzuka,JPN,Asia,Lewis Hamilton,Charles Leclerc,Sergio Perez,George Russell,Charles Leclerc,0,0
+R309,2025,4,2025-04-23,Bahrain,Sakhir,BHR,Middle East,Max Verstappen,Andrea Kimi Antonelli,Charles Leclerc,George Russell,Andrea Kimi Antonelli,1,0
+R310,2025,5,2025-04-25,Saudi Arabia,Jeddah,SAU,Middle East,Charles Leclerc,Oscar Piastri,Sergio Perez,Sergio Perez,Daniel Ricciardo,1,0
+R311,2025,6,2025-04-13,Miami,Miami Intl,USA,North America,Max Verstappen,Charles Leclerc,Lando Norris,Carlos Sainz,Daniel Ricciardo,3,0
+R312,2025,7,2025-05-06,Emilia-Romagna,Imola,ITA,Europe,Lando Norris,Oscar Piastri,Lando Norris,Fernando Alonso,Oscar Piastri,3,0
+R313,2025,8,2025-05-03,Monaco,Monte Carlo,MCO,Europe,Max Verstappen,Charles Leclerc,Max Verstappen,Daniel Ricciardo,Daniel Ricciardo,1,0
+R314,2025,9,2025-06-23,Spain,Barcelona,ESP,Europe,Max Verstappen,Charles Leclerc,Andrea Kimi Antonelli,Pierre Gasly,Andrea Kimi Antonelli,2,0
+R315,2025,10,2025-06-26,Canada,Montreal,CAN,North America,George Russell,Lando Norris,Max Verstappen,George Russell,Max Verstappen,2,0
+R316,2025,11,2025-06-15,Austria,Red Bull Ring,AUT,Europe,Oscar Piastri,Max Verstappen,Charles Leclerc,Charles Leclerc,Charles Leclerc,2,0
+R317,2025,12,2025-07-20,Britain,Silverstone,GBR,Europe,Lando Norris,Max Verstappen,George Russell,Charles Leclerc,George Russell,1,0
+R318,2025,13,2025-07-10,Belgium,Spa-Francorchamps,BEL,Europe,Max Verstappen,Lando Norris,Oscar Piastri,Oscar Piastri,Oscar Piastri,0,1
+R319,2025,14,2025-08-22,Hungary,Budapest,HUN,Europe,Charles Leclerc,Lando Norris,Oscar Piastri,Charles Leclerc,Lando Norris,2,0
+R320,2025,15,2025-08-01,Netherlands,Zandvoort,NLD,Europe,Oscar Piastri,Max Verstappen,Oscar Piastri,George Russell,Oscar Piastri,0,0
+R321,2025,16,2025-08-27,Italy,Monza,ITA,Europe,Lando Norris,Lando Norris,Max Verstappen,George Russell,Fernando Alonso,1,0
+R322,2025,17,2025-09-27,Azerbaijan,Baku,AZE,Europe,Oscar Piastri,Lewis Hamilton,George Russell,Fernando Alonso,Fernando Alonso,0,1
+R323,2025,18,2025-09-02,Singapore,Marina Bay,SGP,Asia,Lando Norris,Lando Norris,Andrea Kimi Antonelli,George Russell,Andrea Kimi Antonelli,1,0
+R324,2025,19,2025-10-25,United States,Austin (COTA),USA,North America,Lando Norris,Lando Norris,Charles Leclerc,Charles Leclerc,Charles Leclerc,1,1
+R325,2025,20,2025-10-22,Mexico,Mexico City,MEX,North America,Lando Norris,Max Verstappen,Oscar Piastri,Sergio Perez,Daniel Ricciardo,2,0
+R326,2025,21,2025-10-26,Sao Paulo,Interlagos,BRA,South America,Oscar Piastri,George Russell,Oscar Piastri,Oscar Piastri,Oscar Piastri,0,1
+R327,2025,22,2025-11-12,Las Vegas,Vegas Strip,USA,North America,Oscar Piastri,Oscar Piastri,Lewis Hamilton,Pierre Gasly,Lewis Hamilton,1,0
+R328,2025,23,2025-11-21,Qatar,Lusail,QAT,Middle East,Charles Leclerc,Oscar Piastri,Charles Leclerc,Charles Leclerc,Oscar Piastri,0,0
+R329,2025,24,2025-12-18,Abu Dhabi,Yas Marina,ARE,Middle East,Lando Norris,Max Verstappen,Andrea Kimi Antonelli,Valtteri Bottas,Fernando Alonso,1,0
+R330,2026,1,2026-03-01,Australia,Albert Park,AUS,Oceania,Oscar Piastri,Charles Leclerc,Lando Norris,Pierre Gasly,Pierre Gasly,3,0
+R331,2026,2,2026-04-03,China,Shanghai,CHN,Asia,Max Verstappen,Lando Norris,Max Verstappen,Charles Leclerc,Charles Leclerc,1,1
+R332,2026,3,2026-05-20,Japan,Suzuka,JPN,Asia,Lando Norris,Lewis Hamilton,Lando Norris,Fernando Alonso,Lando Norris,1,0
+R333,2026,4,2026-06-17,Bahrain,Sakhir,BHR,Middle East,Lando Norris,Oscar Piastri,Charles Leclerc,Sergio Perez,Fernando Alonso,1,0
+R334,2026,5,2026-08-14,Saudi Arabia,Jeddah,SAU,Middle East,Oscar Piastri,George Russell,Charles Leclerc,Fernando Alonso,Fernando Alonso,0,0
+R335,2026,6,2026-09-22,Miami,Miami Intl,USA,North America,Lando Norris,Max Verstappen,Charles Leclerc,Valtteri Bottas,Daniel Ricciardo,2,0
+R336,2026,7,2026-10-13,Emilia-Romagna,Imola,ITA,Europe,Charles Leclerc,Lando Norris,Max Verstappen,George Russell,Fernando Alonso,1,0
+R337,2026,8,2026-12-09,Monaco,Monte Carlo,MCO,Europe,Charles Leclerc,Max Verstappen,Oscar Piastri,Oscar Piastri,Daniel Ricciardo,1,0

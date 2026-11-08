@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  bi-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bi_dashboard_app
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - STREAMLIT_SERVER_PORT=8501
+      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+

@@ -1,0 +1,73 @@
+# 🎙️ Roteiro de Apresentação Executiva — F1 Business & Sports Intelligence
+
+Este documento contém o mapeamento analítico completo do dashboard (`app.py`, `f1_analytics.py`, `ai_analyst.py` e `data_manager.py`) e o roteiro de apresentação oral dividido de forma equilibrada para **6 apresentadores**, com foco integral nos **insights de negócio e conclusões extraídas dos dados**.
+
+---
+
+## 🗺️ Mapeamento Geral das Telas, Componentes e Métricas do Projeto
+
+| Tela / Aba no Sistema | Componentes e Gráficos (Plotly / Streamlit) | Principais Resultados e Métricas Entregues |
+| :--- | :--- | :--- |
+| **Topo Fixo & Barra Lateral (`Sidebar`)** | • Seletor de Fonte de Dados<br>• Botões rápidos de Era (`Liberty 2017+`, `Cost Cap 2021+`)<br>• Slider de Temporadas (`2010–2026`) e Filtros de Equipes/Regiões<br>• **4 KPI Cards Globais** | • **Receita Total F1:** `$36.57B` (Média: `$2,151M/ano`)<br>• **Lucro Médio das Equipes:** `+$75.4M/ano` (pós-2021)<br>• **Taxas de Circuitos:** `$7.21B` acumulados<br>• **Audiência EUA por GP:** `1.45M` espectadores |
+| **Aba 1: 🏛️ Macro Finanças & Liberty Media** | • **Gráfico de Área Empilhada:** Decomposição das 4 linhas de receita da F1 (`2010–2026`) com marco vertical em `2017`<br>• **Gráfico Eixo Duplo (Barras + Linhas):** Espectadores *Drive to Survive* vs. Audiência EUA e Patrocínios<br>• Tabela expansível de indicadores corporativos | • Salto de receita anual de `$1,108M` (2010) para `$4,051M` (2026) — alta de **+265%**<br>• Audiência média nos EUA subiu **+163%** desde 2017 (`0.55M` ➔ `1.45M`) impulsionada por `90M+` de views na Netflix |
+| **Aba 2: 🏎️ Equipes, Orçamentos & Cost Cap** | • **Gráfico de Barras Agrupadas:** Orçamento Operacional vs. Receita Total por Construtor<br>• **Gráfico de Linhas:** Convergência orçamentária com linha de corte no *Cost Cap* (`2021`)<br>• Card de diagnóstico de governança | • **Pré-Cost Cap (até 2020):** Equipes de ponta gastavam `>$400M/ano` e o grid operava no vermelho (`-$12.2M/ano` em média)<br>• **Pós-Cost Cap (2021+):** Teto de `$135M–$145M` gerou superávit médio de **`+$75.4M/ano`** por escuderia |
+| **Aba 3: 🗺️ Economia dos Circuitos & Geopolítica** | • **Scatter Plot (Dispersão):** Taxa de Realização (*Hosting Fee*) vs. Público no Fim de Semana por Região e Tipo de Pista<br>• **Gráfico Donut:** Share regional de taxas de GP<br>• **Barras Agrupadas:** Circuitos de Rua vs. Pistas Tradicionais | • **Oriente Médio:** Maior taxa média (`$36.8M/GP`), mas menor público (`102k`)<br>• **Europa e América do Norte:** Maiores volumes de público (`277k` e `342k`) e Europa lidera no acumulado (`$2.64B`)<br>• **Pistas de Rua:** Cobram mais caro (`$29.5M` vs. `$25.2M`) e geram mais *Safety Cars* (`1.15` vs. `1.05`) |
+| **Aba 4: 🏆 Eficiência & ROI Esportivo** | • **Barras Horizontais (Top 10):** Ranking de pilotos por vitórias e títulos mundiais<br>• **Barras Agrupadas:** Gasto Operacional Acumulado vs. Premiações F1 Recebidas por equipe | • Liderança histórica: **Lewis Hamilton** (`96` vitórias no recorte), **Max Verstappen** (`70`) e **Sebastian Vettel** (`48`)<br>• Demonstração da conversão de orçamento controlado em premiação (`Prize Money`) |
+| **Abas 5 e 6: 🤖 Pergunte aos Dados & 🦆 Consultas Cruzadas** | • **Diagnóstico por Intenção Analítica** e **Cruzamentos Multitabela (`JOINs`)** | • Validação cruzada entre taxas de circuitos, índice de *Safety Cars*, rentabilidade por era e concentração de vitórias |
+
+---
+
+## 👥 Divisão dos Participantes
+
+- **Pessoa 1:** Gabriel Rodella De Assis *(Bloco 1: Visão Executiva e Indicadores Macro)*
+- **Pessoa 2:** Vinicius Marquesin *(Bloco 1: Expansão de Receitas, Era Liberty Media e Efeito Mídia)*
+- **Pessoa 3:** Cleiton Rodrigues *(Bloco 2: Diagnóstico Financeiro das Equipes e Impacto do Cost Cap)*
+- **Pessoa 4:** Luana Abrantes *(Bloco 2: Geopolítica dos Circuitos — Capital vs. Público e Pistas de Rua)*
+- **Pessoa 5:** Douglas Felipe Mariano *(Bloco 2: Eficiência de Investimento, Premiação e Retorno em Pista)*
+- **Pessoa 6:** Joice Soato Brito *(Bloco 3: Cruzamento Final de Dados e Conclusão Analítica de Negócio)*
+
+---
+
+# 🎤 Roteiro de Apresentação Oral
+
+---
+
+## 1. Visão Executiva / Principais Métricas
+
+### Intervenção 1 — Abertura Executiva e Panorama de Negócio (KPIs de Topo)
+- **[Pessoa 1] - Fala:** "Olá a todos. Nossa análise de Business Intelligence investiga a transformação financeira e esportiva da Fórmula 1 ao longo de 17 temporadas, de 2010 a 2026, cruzando dados corporativos da liga, finanças das dez equipes, economia de 24 circuitos e resultados de 337 corridas. Os quatro indicadores no topo da tela resumem o tamanho dessa virada: o faturamento acumulado da categoria chegou a 36,57 bilhões de dólares, com média anual de 2,15 bilhões; os autódromos injetaram 7,21 bilhões em taxas de sedes; a audiência nos Estados Unidos atingiu 1,45 milhão de espectadores por corrida; e as equipes saíram do prejuízo para um lucro operacional médio de 75,4 milhões de dólares por ano. Em resumo, os dados mostram como uma categoria antes deficitária se transformou em um negócio bilionário e autossustentável. Vamos entender agora o que impulsionou esses números."
+- **Contexto da Tela / Gráfico:** **Topo do Dashboard e Barra Lateral (`Sidebar`)**. Manter o intervalo completo selecionado (`2010–2026`) e destacar com o cursor os **4 Cards de KPIs no topo** (`$36.57B`, `+$75.4M`, `$7.21B` e `1.45M`), apontando também para os filtros de temporada e regiões na barra lateral.
+
+---
+
+### Intervenção 2 — Decomposição do Faturamento e o Efeito *Drive to Survive*
+- **[Pessoa 2] - Fala:** "Obrigado. Aqui na primeira aba, analisamos a origem desse crescimento de receita. No gráfico de área à esquerda, a linha tracejada em 2017 marca a compra da F1 pela Liberty Media. Até 2016, a receita crescia de forma lenta, dependente da TV tradicional. Após 2017, a curva acelera e leva o faturamento anual de 1,1 bilhão em 2010 para 4,05 bilhões de dólares em 2026 — uma alta de 265%. E o que explica essa aceleração? O gráfico da direita mostra o impacto direto da mídia: com o lançamento de *Drive to Survive* na Netflix, que ultrapassou 90 milhões de espectadores nas barras ao fundo, a audiência média por corrida nos Estados Unidos subiu 163%, saltando de 550 mil para 1,45 milhão. Esse novo público abriu o maior mercado consumidor do mundo e puxou a linha pontilhada de patrocínios globais para níveis recordes. Porém, faturar mais no topo não resolvia o problema crônico das equipes, que veremos a seguir."
+- **Contexto da Tela / Gráfico:** **Aba 1 (`🏛️ Macro Finanças & Liberty Media`)**. Apontar primeiro para o gráfico da esquerda (**Decomposição das Linhas de Receita da F1**), destacando a linha vertical de `2017` e a expansão das faixas de transmissão, taxas de GP e patrocínios. Depois, apontar para o gráfico da direita (**Efeito Drive to Survive & Expansão de Audiência nos EUA**), seguindo a linha vermelha de audiência americana e a linha pontilhada de patrocínios.
+
+---
+
+## 2. Diagnóstico e Tendências
+
+### Intervenção 3 — O Divisor de Águas do *Cost Cap* na Saúde das Escuderias
+- **[Pessoa 3] - Fala:** "Exatamente. Na segunda aba, os dados revelam por que as equipes perdiam dinheiro mesmo com a F1 crescendo. No gráfico de linhas à direita, vemos que até 2020 não havia limite de gastos: Mercedes, Ferrari e Red Bull chegavam a gastar mais de 400 milhões de dólares por ano para vencer a qualquer custo, fazendo o grid fechar com prejuízo médio de 12,2 milhões negativos por temporada. Em 2021, marcado pela linha vertical vermelha, entra em vigor o teto de gastos — o *Cost Cap* — travando os custos operacionais entre 135 e 145 milhões. O resultado para o negócio foi imediato: as linhas de gasto das grandes equipes caíram drasticamente e convergiram. Olhando para o gráfico de barras à esquerda, vemos o reflexo disso hoje: a barra ciano de receita total supera com folga a barra escura de orçamento em todas as dez equipes, revertendo o prejuízo histórico para um lucro médio positivo de 75,4 milhões de dólares por ano."
+- **Contexto da Tela / Gráfico:** **Aba 2 (`🏎️ Equipes, Orçamentos & Cost Cap`)**. Começar pelo gráfico da direita (**Evolução do Orçamento Operacional e o Efeito Teto**), destacando o pico acima de `$400M` antes de `2021` e a queda após a linha tracejada vermelha. Em seguida, apontar para o gráfico da esquerda (**Orçamento vs Receita por Construtor**), mostrando a diferença positiva entre a barra ciano (`Receita Total`) e a cinza (`Orçamento Operacional`).
+
+---
+
+### Intervenção 4 — Economia dos Circuitos: O Equilíbrio entre Capital e Público
+- **[Pessoa 4] - Fala:** "Além da disciplina financeira nas equipes, a terceira aba revela como a F1 reequilibrou a receita dos seus circuitos. No gráfico de dispersão à esquerda, cruzamos a taxa paga pelo promotor no eixo vertical com o público do fim de semana no eixo horizontal. Os dados mostram dois perfis opostos e complementares: no canto superior esquerdo estão os circuitos do Oriente Médio, que têm público menor — média de 102 mil pessoas —, mas pagam as maiores taxas do mundo, chegando a 36,8 milhões de dólares por prova. Já na direita estão Oceania, América do Norte e Europa, que pagam taxas médias menores por corrida, mas colocam de 280 mil a 450 mil fãs nos autódromos. No gráfico de rosca à direita, a Europa ainda lidera no acumulado com 2,64 bilhões pelo volume de provas, mas o Oriente Médio já responde por mais de 1,54 bilhão. E no gráfico inferior, vemos por que o calendário tem priorizado circuitos de rua: eles pagam em média 29,5 milhões contra 25,2 milhões das pistas permanentes e geram mais acionamentos de *Safety Car*, entregando corridas mais imprevisíveis e valiosas para a transmissão."
+- **Contexto da Tela / Gráfico:** **Aba 3 (`🗺️ Economia dos Circuitos & Geopolítica`)**. No **Scatter Plot** à esquerda, apontar o agrupamento superior esquerdo (`Middle East`) versus os pontos à direita (`Oceania`, `North America` e `Europe`). No **Donut Chart** à direita, destacar as fatias de `Europe` e `Middle East`. Por fim, rolar até o gráfico inferior (**Comparativo: Circuitos de Rua vs. Pistas Tradicionais**) e destacar as barras de Taxa Média e *Safety Cars*.
+
+---
+
+### Intervenção 5 — Eficiência de Investimento e Retorno Esportivo em Pista
+- **[Pessoa 5] - Fala:** "Na quarta aba, conectamos as finanças ao desempenho dentro da pista para medir o retorno sobre o investimento. No gráfico da direita, comparamos o gasto operacional acumulado em cinza com o retorno em premiações da F1 em vermelho. A leitura analítica mostra que gastar mais não significa maior eficiência: Ferrari e Mercedes tiveram os maiores custos acumulados da história recente, mas equipes como Red Bull e McLaren conseguiram extrair uma proporção muito mais eficiente de premiação e vitórias por dólar investido, especialmente após o teto orçamentário nivelar a competição. No gráfico da esquerda, vemos como essa performance se concentrou em ciclos de domínio técnico: Lewis Hamilton lidera o período com 96 vitórias, seguido por Max Verstappen com 70 e Sebastian Vettel com 48. Na prática, os dados provam que, com o orçamento limitado, a vantagem competitiva migrou do poder financeiro bruto para a eficiência de engenharia."
+- **Contexto da Tela / Gráfico:** **Aba 4 (`🏆 Eficiência & ROI Esportivo`)**. Apontar primeiro para o gráfico de barras agrupadas à direita (**Gasto Operacional Acumulado vs. Premiações F1 Recebidas**), comparando a relação entre as barras cinzas e vermelhas de Ferrari, Mercedes, Red Bull e McLaren. Depois, apontar para o gráfico horizontal à esquerda (**Ranking de Pilotos: Vitórias e Títulos Mundiais**), destacando o Top 3.
+
+---
+
+## 3. Conclusão
+
+### Intervenção 6 — Cruzamento Final e Conclusões Estratégicas dos Dados
+- **[Pessoa 6] - Fala:** "Para consolidar nossa análise, utilizamos as abas de consulta inteligente e cruzamento SQL para unir as cinco tabelas e responder à pergunta central do nosso estudo: o que explica o sucesso atual do modelo de negócios da Fórmula 1? Os dados nos levam a três conclusões definitivas. A primeira é comercial: a abertura para o entretenimento digital com a Liberty Media e a Netflix destravou o mercado americano, quase triplicou a audiência nos Estados Unidos e multiplicou a receita global da liga quase por quatro. A segunda conclusão é de governança financeira: o crescimento de receita só se tornou saudável porque o *Cost Cap* de 2021 eliminou o déficit histórico de 12,2 milhões negativos e garantiu um lucro médio de 75,4 milhões de dólares por equipe, aumentando a competitividade e o valor de mercado de todo o grid. E a terceira conclusão é geopolítica: a F1 atingiu o equilíbrio financeiro ao combinar o capital pesado do Oriente Médio e dos circuitos de rua — que financiam as taxas recordes — com os circuitos tradicionais da Europa e das Américas, que sustentam a paixão e o público de massa nos autódromos. É essa tríade entre mídia, controle de custos e mix geográfico que explica a fase mais lucrativa da história da Fórmula 1. Muito obrigado!"
+- **Contexto da Tela / Gráfico:** **Abas 5 (`🤖 Pergunte aos Dados`) e 6 (`🦆 DuckDB SQL Playground`)**. Iniciar na **Aba 5** exibindo o resumo executivo do impacto do *Cost Cap* ou da *Liberty Media* e, em seguida, alternar para a **Aba 6** executando a consulta `"P2: Rentabilidade das Equipes Pré vs Pós Cost Cap"` ou `"P3: Hosting Fee Médio e Público por Região"` para deixar na tela os números consolidados enquanto apresenta as três conclusões finais do estudo.
